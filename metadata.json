@@ -1,0 +1,6 @@
+{
+  "name": "NSE Stock Terminal - Technical & Breakout Scanner",
+  "description": "NSE India stock tracking with Inside Bar consolidation & breakout detection, EMA crossovers, RSI divergence analysis, and volume profile charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
