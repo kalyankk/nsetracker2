@@ -160,37 +160,71 @@ export function deriveStockMetadataAndSignals(
 
 /**
  * Fetches Live Chart & Candlestick history for a single NSE ticker
+ * Seamlessly supports both Express proxy server and static GitHub Pages hosting
  */
 export async function fetchNSEChart(
   symbol: string,
   timeframe: Timeframe = '1D'
 ): Promise<{ metadata: StockMetadata; candles: Candle[] }> {
   const cleanSym = symbol === 'NIFTY 50' ? '^NSEI' : symbol === 'BANKNIFTY' ? '^NSEBANK' : symbol;
-  const res = await fetch(`/api/nse/chart?symbol=${encodeURIComponent(cleanSym)}&timeframe=${timeframe}`);
 
-  if (!res.ok) {
-    throw new Error(`Failed to fetch live NSE data for ${symbol} (status: ${res.status})`);
+  // 1. Try local/server proxy endpoint
+  try {
+    const res = await fetch(`/api/nse/chart?symbol=${encodeURIComponent(cleanSym)}&timeframe=${timeframe}`);
+    if (res.ok) {
+      const data = await res.json();
+      const candles: Candle[] = data.candles || [];
+      if (candles.length > 0) {
+        const metadata = deriveStockMetadataAndSignals(symbol, data.name || symbol, candles, data);
+        return { metadata, candles };
+      }
+    }
+  } catch {
+    // Fallback to static datasets on GitHub Pages
   }
 
-  const data = await res.json();
-  const candles: Candle[] = data.candles || [];
-
-  if (candles.length === 0) {
-    throw new Error(`No candles returned for ${symbol}`);
+  // 2. Static GitHub Pages Fallback: individual stock JSON
+  try {
+    const staticRes = await fetch(`./data/stocks/${encodeURIComponent(cleanSym)}.json`);
+    if (staticRes.ok) {
+      const staticItem = await staticRes.json();
+      const candles: Candle[] = staticItem.candles || [];
+      if (candles.length > 0) {
+        const metadata = deriveStockMetadataAndSignals(symbol, staticItem.name || symbol, candles, staticItem);
+        return { metadata, candles };
+      }
+    }
+  } catch {
+    // Continue
   }
 
-  const metadata = deriveStockMetadataAndSignals(symbol, data.name || symbol, candles, data);
-  return { metadata, candles };
+  // 3. Static GitHub Pages Fallback: extract from batch-charts JSON
+  try {
+    const batchRes = await fetch(`./data/batch-charts${timeframe === '1D' ? '' : '-' + timeframe}.json`);
+    if (batchRes.ok) {
+      const batchList = await batchRes.json();
+      const item = batchList.find((b: any) => b.symbol.toUpperCase() === cleanSym.toUpperCase());
+      if (item && item.candles?.length > 0) {
+        return {
+          metadata: deriveStockMetadataAndSignals(item.symbol, item.name || item.symbol, item.candles, item),
+          candles: item.candles,
+        };
+      }
+    }
+  } catch {}
+
+  throw new Error(`Failed to load NSE chart data for ${symbol}`);
 }
 
 /**
  * Fetches batch charts & candles for ALL symbols in watchlist simultaneously
- * This enables automated trade setup computation for all watchlist items without opening their charts!
+ * Seamlessly supports both Express proxy server and static GitHub Pages hosting
  */
 export async function fetchNSEBatchCharts(
   symbols: string[],
   timeframe: Timeframe = '1D'
 ): Promise<{ symbol: string; metadata: StockMetadata; candles: Candle[] }[]> {
+  // 1. Try local/server proxy endpoint
   try {
     const res = await fetch('/api/nse/batch-charts', {
       method: 'POST',
@@ -198,22 +232,46 @@ export async function fetchNSEBatchCharts(
       body: JSON.stringify({ symbols, timeframe }),
     });
 
-    if (!res.ok) return [];
-    const items = await res.json();
-
-    return items.map((item: any) => {
-      const candles: Candle[] = item.candles || [];
-      const metadata = deriveStockMetadataAndSignals(item.symbol, item.name, candles, item);
-      return {
-        symbol: item.symbol,
-        metadata,
-        candles,
-      };
-    });
-  } catch (err) {
-    console.error('Error fetching batch charts:', err);
-    return [];
+    if (res.ok) {
+      const items = await res.json();
+      if (Array.isArray(items) && items.length > 0) {
+        return items.map((item: any) => {
+          const candles: Candle[] = item.candles || [];
+          const metadata = deriveStockMetadataAndSignals(item.symbol, item.name, candles, item);
+          return {
+            symbol: item.symbol,
+            metadata,
+            candles,
+          };
+        });
+      }
+    }
+  } catch {
+    // Server proxy not available (GitHub Pages static environment)
   }
+
+  // 2. Static GitHub Pages Fallback: load pre-bundled static batch datasets
+  try {
+    const staticRes = await fetch(`./data/batch-charts${timeframe === '1D' ? '' : '-' + timeframe}.json`);
+    if (staticRes.ok) {
+      const items = await staticRes.json();
+      if (Array.isArray(items) && items.length > 0) {
+        return items.map((item: any) => {
+          const candles: Candle[] = item.candles || [];
+          const metadata = deriveStockMetadataAndSignals(item.symbol, item.name, candles, item);
+          return {
+            symbol: item.symbol,
+            metadata,
+            candles,
+          };
+        });
+      }
+    }
+  } catch (err) {
+    console.warn('Failed to load static batch charts data on GitHub Pages', err);
+  }
+
+  return [];
 }
 
 /**
@@ -244,23 +302,32 @@ export async function fetchNSEBatchQuotes(symbols: string[]): Promise<StockMetad
       vwap: item.price,
       marketCap: 'NSE',
     }));
-  } catch (err) {
-    console.error('Error fetching batch quotes:', err);
+  } catch {
     return [];
   }
 }
 
 /**
- * Searches real symbols on NSE via Yahoo Finance
+ * Searches symbols on NSE with client-side fallback for GitHub Pages
  */
 export async function searchNSESymbols(query: string): Promise<{ symbol: string; name: string; exchange: string }[]> {
   try {
     const res = await fetch(`/api/nse/search?q=${encodeURIComponent(query)}`);
-    if (!res.ok) return [];
-    return await res.json();
-  } catch {
-    return [];
-  }
+    if (res.ok) {
+      const results = await res.json();
+      if (Array.isArray(results) && results.length > 0) return results;
+    }
+  } catch {}
+
+  // Client-side fallback for GitHub Pages
+  const cleanQ = query.trim().toUpperCase();
+  return INITIAL_NSE_STOCKS
+    .filter(s => s.symbol.includes(cleanQ) || s.name.toUpperCase().includes(cleanQ))
+    .map(s => ({
+      symbol: s.symbol,
+      name: s.name,
+      exchange: 'NSE',
+    }));
 }
 
 function getSectorForSymbol(symbol: string): string {

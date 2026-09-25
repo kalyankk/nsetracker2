@@ -1,0 +1,2286 @@
+{
+  "symbol": "NORTHARC",
+  "yahooSymbol": "NORTHARC.NS",
+  "name": "Northern Arc Capital Limited",
+  "currency": "INR",
+  "price": 302.45,
+  "previousClose": 271.7,
+  "change": 30.75,
+  "changePercent": 11.32,
+  "dayHigh": 304.4,
+  "dayLow": 299.05,
+  "volume": 291079,
+  "fiftyTwoWeekHigh": 334,
+  "fiftyTwoWeekLow": 206,
+  "marketTime": 1790318994000,
+  "candles": [
+    {
+      "timestamp": 1758771900000,
+      "date": "25 Sept 2025",
+      "open": 275.4,
+      "high": 279,
+      "low": 270.32,
+      "close": 271.7,
+      "volume": 880965
+    },
+    {
+      "timestamp": 1758858300000,
+      "date": "26 Sept 2025",
+      "open": 271.7,
+      "high": 272,
+      "low": 260.61,
+      "close": 262.31,
+      "volume": 944790
+    },
+    {
+      "timestamp": 1759117500000,
+      "date": "29 Sept 2025",
+      "open": 263,
+      "high": 270.81,
+      "low": 259.31,
+      "close": 268.24,
+      "volume": 918636
+    },
+    {
+      "timestamp": 1759203900000,
+      "date": "30 Sept 2025",
+      "open": 267.21,
+      "high": 278.9,
+      "low": 266.75,
+      "close": 271.7,
+      "volume": 1650690
+    },
+    {
+      "timestamp": 1759290300000,
+      "date": "01 Oct 2025",
+      "open": 273.5,
+      "high": 280,
+      "low": 270.5,
+      "close": 278.3,
+      "volume": 756757
+    },
+    {
+      "timestamp": 1759463100000,
+      "date": "03 Oct 2025",
+      "open": 278,
+      "high": 287,
+      "low": 275.65,
+      "close": 285.7,
+      "volume": 881567
+    },
+    {
+      "timestamp": 1759722300000,
+      "date": "06 Oct 2025",
+      "open": 289.9,
+      "high": 290,
+      "low": 286.05,
+      "close": 288.65,
+      "volume": 775105
+    },
+    {
+      "timestamp": 1759808700000,
+      "date": "07 Oct 2025",
+      "open": 288.5,
+      "high": 288.95,
+      "low": 278,
+      "close": 279.05,
+      "volume": 968053
+    },
+    {
+      "timestamp": 1759895100000,
+      "date": "08 Oct 2025",
+      "open": 261.5,
+      "high": 284.8,
+      "low": 261.5,
+      "close": 273.1,
+      "volume": 1114035
+    },
+    {
+      "timestamp": 1759981500000,
+      "date": "09 Oct 2025",
+      "open": 273.2,
+      "high": 275,
+      "low": 269,
+      "close": 270.4,
+      "volume": 853661
+    },
+    {
+      "timestamp": 1760067900000,
+      "date": "10 Oct 2025",
+      "open": 269.8,
+      "high": 273.25,
+      "low": 264.7,
+      "close": 270.3,
+      "volume": 674208
+    },
+    {
+      "timestamp": 1760327100000,
+      "date": "13 Oct 2025",
+      "open": 271.1,
+      "high": 272.7,
+      "low": 266.15,
+      "close": 270.35,
+      "volume": 373499
+    },
+    {
+      "timestamp": 1760413500000,
+      "date": "14 Oct 2025",
+      "open": 270.85,
+      "high": 272.4,
+      "low": 262.45,
+      "close": 263.4,
+      "volume": 470432
+    },
+    {
+      "timestamp": 1760499900000,
+      "date": "15 Oct 2025",
+      "open": 264.15,
+      "high": 279,
+      "low": 264.15,
+      "close": 275.25,
+      "volume": 821103
+    },
+    {
+      "timestamp": 1760586300000,
+      "date": "16 Oct 2025",
+      "open": 275.25,
+      "high": 278.7,
+      "low": 267.55,
+      "close": 270.55,
+      "volume": 751720
+    },
+    {
+      "timestamp": 1760672700000,
+      "date": "17 Oct 2025",
+      "open": 270.5,
+      "high": 271.6,
+      "low": 265.5,
+      "close": 267.75,
+      "volume": 496373
+    },
+    {
+      "timestamp": 1760931900000,
+      "date": "20 Oct 2025",
+      "open": 270.8,
+      "high": 276.15,
+      "low": 266.6,
+      "close": 274.9,
+      "volume": 757969
+    },
+    {
+      "timestamp": 1761018300000,
+      "date": "21 Oct 2025",
+      "open": 281,
+      "high": 281,
+      "low": 276.3,
+      "close": 277.75,
+      "volume": 236038
+    },
+    {
+      "timestamp": 1761191100000,
+      "date": "23 Oct 2025",
+      "open": 281.3,
+      "high": 281.3,
+      "low": 271.25,
+      "close": 272.65,
+      "volume": 491189
+    },
+    {
+      "timestamp": 1761277500000,
+      "date": "24 Oct 2025",
+      "open": 274.7,
+      "high": 274.7,
+      "low": 267.7,
+      "close": 268.55,
+      "volume": 309396
+    },
+    {
+      "timestamp": 1761536700000,
+      "date": "27 Oct 2025",
+      "open": 270.9,
+      "high": 272.3,
+      "low": 268,
+      "close": 268.85,
+      "volume": 294696
+    },
+    {
+      "timestamp": 1761623100000,
+      "date": "28 Oct 2025",
+      "open": 268,
+      "high": 269.9,
+      "low": 263.9,
+      "close": 264.85,
+      "volume": 292837
+    },
+    {
+      "timestamp": 1761709500000,
+      "date": "29 Oct 2025",
+      "open": 266.6,
+      "high": 270.15,
+      "low": 264.5,
+      "close": 269.65,
+      "volume": 360340
+    },
+    {
+      "timestamp": 1761795900000,
+      "date": "30 Oct 2025",
+      "open": 272,
+      "high": 272,
+      "low": 264.75,
+      "close": 270.45,
+      "volume": 452057
+    },
+    {
+      "timestamp": 1761882300000,
+      "date": "31 Oct 2025",
+      "open": 273.5,
+      "high": 276,
+      "low": 268.3,
+      "close": 272.15,
+      "volume": 634291
+    },
+    {
+      "timestamp": 1762141500000,
+      "date": "03 Nov 2025",
+      "open": 272.95,
+      "high": 285,
+      "low": 272.2,
+      "close": 284.2,
+      "volume": 2404393
+    },
+    {
+      "timestamp": 1762227900000,
+      "date": "04 Nov 2025",
+      "open": 282.7,
+      "high": 283,
+      "low": 272.75,
+      "close": 275,
+      "volume": 690461
+    },
+    {
+      "timestamp": 1762400700000,
+      "date": "06 Nov 2025",
+      "open": 278.5,
+      "high": 278.5,
+      "low": 261.6,
+      "close": 263.15,
+      "volume": 816992
+    },
+    {
+      "timestamp": 1762487100000,
+      "date": "07 Nov 2025",
+      "open": 261,
+      "high": 270.55,
+      "low": 259.55,
+      "close": 268.9,
+      "volume": 742353
+    },
+    {
+      "timestamp": 1762746300000,
+      "date": "10 Nov 2025",
+      "open": 269,
+      "high": 271.4,
+      "low": 265.5,
+      "close": 267.6,
+      "volume": 513736
+    },
+    {
+      "timestamp": 1762832700000,
+      "date": "11 Nov 2025",
+      "open": 267.6,
+      "high": 267.6,
+      "low": 260.55,
+      "close": 262.4,
+      "volume": 674245
+    },
+    {
+      "timestamp": 1762919100000,
+      "date": "12 Nov 2025",
+      "open": 265,
+      "high": 271.55,
+      "low": 262.45,
+      "close": 270.95,
+      "volume": 497442
+    },
+    {
+      "timestamp": 1763005500000,
+      "date": "13 Nov 2025",
+      "open": 270,
+      "high": 271.45,
+      "low": 265,
+      "close": 265.9,
+      "volume": 252911
+    },
+    {
+      "timestamp": 1763091900000,
+      "date": "14 Nov 2025",
+      "open": 262.8,
+      "high": 273.2,
+      "low": 262.8,
+      "close": 270.85,
+      "volume": 469739
+    },
+    {
+      "timestamp": 1763351100000,
+      "date": "17 Nov 2025",
+      "open": 272.9,
+      "high": 272.9,
+      "low": 267.8,
+      "close": 269.75,
+      "volume": 296193
+    },
+    {
+      "timestamp": 1763437500000,
+      "date": "18 Nov 2025",
+      "open": 269,
+      "high": 269.6,
+      "low": 259.8,
+      "close": 261.45,
+      "volume": 669266
+    },
+    {
+      "timestamp": 1763523900000,
+      "date": "19 Nov 2025",
+      "open": 261.45,
+      "high": 261.45,
+      "low": 255.2,
+      "close": 256.4,
+      "volume": 613612
+    },
+    {
+      "timestamp": 1763610300000,
+      "date": "20 Nov 2025",
+      "open": 258,
+      "high": 259,
+      "low": 252.4,
+      "close": 253.8,
+      "volume": 458727
+    },
+    {
+      "timestamp": 1763696700000,
+      "date": "21 Nov 2025",
+      "open": 251.7,
+      "high": 260,
+      "low": 251.7,
+      "close": 258.2,
+      "volume": 470801
+    },
+    {
+      "timestamp": 1763955900000,
+      "date": "24 Nov 2025",
+      "open": 258.3,
+      "high": 261.25,
+      "low": 255.7,
+      "close": 260,
+      "volume": 342488
+    },
+    {
+      "timestamp": 1764042300000,
+      "date": "25 Nov 2025",
+      "open": 260,
+      "high": 262.65,
+      "low": 257.2,
+      "close": 258.05,
+      "volume": 277952
+    },
+    {
+      "timestamp": 1764128700000,
+      "date": "26 Nov 2025",
+      "open": 258,
+      "high": 268.7,
+      "low": 258,
+      "close": 266.35,
+      "volume": 565630
+    },
+    {
+      "timestamp": 1764215100000,
+      "date": "27 Nov 2025",
+      "open": 267.5,
+      "high": 269,
+      "low": 264.4,
+      "close": 267.55,
+      "volume": 291250
+    },
+    {
+      "timestamp": 1764301500000,
+      "date": "28 Nov 2025",
+      "open": 267,
+      "high": 271,
+      "low": 264,
+      "close": 269.45,
+      "volume": 289688
+    },
+    {
+      "timestamp": 1764560700000,
+      "date": "01 Dec 2025",
+      "open": 272,
+      "high": 272.4,
+      "low": 265,
+      "close": 266.15,
+      "volume": 210111
+    },
+    {
+      "timestamp": 1764647100000,
+      "date": "02 Dec 2025",
+      "open": 266,
+      "high": 269,
+      "low": 258.55,
+      "close": 259.25,
+      "volume": 358136
+    },
+    {
+      "timestamp": 1764733500000,
+      "date": "03 Dec 2025",
+      "open": 259.25,
+      "high": 261.25,
+      "low": 256,
+      "close": 257.65,
+      "volume": 222166
+    },
+    {
+      "timestamp": 1764819900000,
+      "date": "04 Dec 2025",
+      "open": 258,
+      "high": 260,
+      "low": 256.3,
+      "close": 257.15,
+      "volume": 226782
+    },
+    {
+      "timestamp": 1764906300000,
+      "date": "05 Dec 2025",
+      "open": 259.7,
+      "high": 259.7,
+      "low": 254.15,
+      "close": 257.3,
+      "volume": 194076
+    },
+    {
+      "timestamp": 1765165500000,
+      "date": "08 Dec 2025",
+      "open": 259,
+      "high": 259,
+      "low": 246,
+      "close": 253.35,
+      "volume": 604187
+    },
+    {
+      "timestamp": 1765251900000,
+      "date": "09 Dec 2025",
+      "open": 254.65,
+      "high": 263.6,
+      "low": 250.5,
+      "close": 260.55,
+      "volume": 713160
+    },
+    {
+      "timestamp": 1765338300000,
+      "date": "10 Dec 2025",
+      "open": 260.55,
+      "high": 264.9,
+      "low": 258.8,
+      "close": 260.2,
+      "volume": 283232
+    },
+    {
+      "timestamp": 1765424700000,
+      "date": "11 Dec 2025",
+      "open": 260,
+      "high": 261.25,
+      "low": 255.95,
+      "close": 257.1,
+      "volume": 200099
+    },
+    {
+      "timestamp": 1765511100000,
+      "date": "12 Dec 2025",
+      "open": 260.9,
+      "high": 262.35,
+      "low": 256.1,
+      "close": 259.95,
+      "volume": 209722
+    },
+    {
+      "timestamp": 1765770300000,
+      "date": "15 Dec 2025",
+      "open": 258.95,
+      "high": 260.25,
+      "low": 255.25,
+      "close": 259.15,
+      "volume": 212498
+    },
+    {
+      "timestamp": 1765856700000,
+      "date": "16 Dec 2025",
+      "open": 259.9,
+      "high": 259.9,
+      "low": 253.2,
+      "close": 254,
+      "volume": 199188
+    },
+    {
+      "timestamp": 1765943100000,
+      "date": "17 Dec 2025",
+      "open": 253.75,
+      "high": 254.4,
+      "low": 245.2,
+      "close": 246.8,
+      "volume": 263021
+    },
+    {
+      "timestamp": 1766029500000,
+      "date": "18 Dec 2025",
+      "open": 248.5,
+      "high": 248.5,
+      "low": 239.15,
+      "close": 245.8,
+      "volume": 450407
+    },
+    {
+      "timestamp": 1766115900000,
+      "date": "19 Dec 2025",
+      "open": 245.4,
+      "high": 255.8,
+      "low": 245.4,
+      "close": 253.45,
+      "volume": 222150
+    },
+    {
+      "timestamp": 1766375100000,
+      "date": "22 Dec 2025",
+      "open": 253.45,
+      "high": 255.55,
+      "low": 251.1,
+      "close": 252.3,
+      "volume": 266879
+    },
+    {
+      "timestamp": 1766461500000,
+      "date": "23 Dec 2025",
+      "open": 253,
+      "high": 255.35,
+      "low": 249.6,
+      "close": 253.85,
+      "volume": 190019
+    },
+    {
+      "timestamp": 1766547900000,
+      "date": "24 Dec 2025",
+      "open": 253,
+      "high": 260.15,
+      "low": 250.5,
+      "close": 251.55,
+      "volume": 460413
+    },
+    {
+      "timestamp": 1766720700000,
+      "date": "26 Dec 2025",
+      "open": 252.75,
+      "high": 257.9,
+      "low": 250.65,
+      "close": 252.1,
+      "volume": 432264
+    },
+    {
+      "timestamp": 1766979900000,
+      "date": "29 Dec 2025",
+      "open": 252.1,
+      "high": 254.85,
+      "low": 248.1,
+      "close": 250.25,
+      "volume": 324822
+    },
+    {
+      "timestamp": 1767066300000,
+      "date": "30 Dec 2025",
+      "open": 250.25,
+      "high": 251,
+      "low": 242.85,
+      "close": 248.3,
+      "volume": 423455
+    },
+    {
+      "timestamp": 1767152700000,
+      "date": "31 Dec 2025",
+      "open": 248.2,
+      "high": 252,
+      "low": 246.55,
+      "close": 249.35,
+      "volume": 225193
+    },
+    {
+      "timestamp": 1767239100000,
+      "date": "01 Jan 2026",
+      "open": 250.6,
+      "high": 258.59,
+      "low": 249.25,
+      "close": 250.19,
+      "volume": 698092
+    },
+    {
+      "timestamp": 1767325500000,
+      "date": "02 Jan 2026",
+      "open": 249.3,
+      "high": 261.5,
+      "low": 249.3,
+      "close": 259.45,
+      "volume": 762332
+    },
+    {
+      "timestamp": 1767584700000,
+      "date": "05 Jan 2026",
+      "open": 260,
+      "high": 262.12,
+      "low": 253,
+      "close": 257.37,
+      "volume": 548628
+    },
+    {
+      "timestamp": 1767671100000,
+      "date": "06 Jan 2026",
+      "open": 258.25,
+      "high": 268,
+      "low": 255.31,
+      "close": 266.84,
+      "volume": 1139608
+    },
+    {
+      "timestamp": 1767757500000,
+      "date": "07 Jan 2026",
+      "open": 268.3,
+      "high": 269.51,
+      "low": 263.64,
+      "close": 266.14,
+      "volume": 465146
+    },
+    {
+      "timestamp": 1767843900000,
+      "date": "08 Jan 2026",
+      "open": 265.9,
+      "high": 265.9,
+      "low": 261.41,
+      "close": 264.03,
+      "volume": 700457
+    },
+    {
+      "timestamp": 1767930300000,
+      "date": "09 Jan 2026",
+      "open": 263.55,
+      "high": 264.55,
+      "low": 259.95,
+      "close": 260.62,
+      "volume": 546716
+    },
+    {
+      "timestamp": 1768189500000,
+      "date": "12 Jan 2026",
+      "open": 261.6,
+      "high": 262.27,
+      "low": 257,
+      "close": 259.12,
+      "volume": 718437
+    },
+    {
+      "timestamp": 1768275900000,
+      "date": "13 Jan 2026",
+      "open": 259.6,
+      "high": 263.65,
+      "low": 259.6,
+      "close": 262.8,
+      "volume": 351971
+    },
+    {
+      "timestamp": 1768362300000,
+      "date": "14 Jan 2026",
+      "open": 260.3,
+      "high": 269.7,
+      "low": 260.3,
+      "close": 264.76,
+      "volume": 998418
+    },
+    {
+      "timestamp": 1768447800000,
+      "date": "15 Jan 2026",
+      "open": 264.76,
+      "high": 264.76,
+      "low": 264.76,
+      "close": 264.76,
+      "volume": 0
+    },
+    {
+      "timestamp": 1768535100000,
+      "date": "16 Jan 2026",
+      "open": 265.09,
+      "high": 270,
+      "low": 260.79,
+      "close": 265.45,
+      "volume": 598353
+    },
+    {
+      "timestamp": 1768794300000,
+      "date": "19 Jan 2026",
+      "open": 265,
+      "high": 266.57,
+      "low": 263.29,
+      "close": 263.5,
+      "volume": 311491
+    },
+    {
+      "timestamp": 1768880700000,
+      "date": "20 Jan 2026",
+      "open": 263.5,
+      "high": 263.66,
+      "low": 258.65,
+      "close": 259.9,
+      "volume": 707217
+    },
+    {
+      "timestamp": 1768967100000,
+      "date": "21 Jan 2026",
+      "open": 259.9,
+      "high": 272.45,
+      "low": 258.75,
+      "close": 268.14,
+      "volume": 1387843
+    },
+    {
+      "timestamp": 1769053500000,
+      "date": "22 Jan 2026",
+      "open": 270,
+      "high": 280.38,
+      "low": 268.51,
+      "close": 276.87,
+      "volume": 2067973
+    },
+    {
+      "timestamp": 1769139900000,
+      "date": "23 Jan 2026",
+      "open": 276.87,
+      "high": 280,
+      "low": 271.5,
+      "close": 273.7,
+      "volume": 988730
+    },
+    {
+      "timestamp": 1769485500000,
+      "date": "27 Jan 2026",
+      "open": 273,
+      "high": 275.19,
+      "low": 257.01,
+      "close": 260.71,
+      "volume": 612528
+    },
+    {
+      "timestamp": 1769571900000,
+      "date": "28 Jan 2026",
+      "open": 260.71,
+      "high": 270,
+      "low": 258.39,
+      "close": 268.61,
+      "volume": 451691
+    },
+    {
+      "timestamp": 1769658300000,
+      "date": "29 Jan 2026",
+      "open": 266,
+      "high": 268.19,
+      "low": 261,
+      "close": 264.07,
+      "volume": 306742
+    },
+    {
+      "timestamp": 1769744700000,
+      "date": "30 Jan 2026",
+      "open": 263,
+      "high": 273.9,
+      "low": 258.14,
+      "close": 272.39,
+      "volume": 407600
+    },
+    {
+      "timestamp": 1770003900000,
+      "date": "02 Feb 2026",
+      "open": 255.85,
+      "high": 257,
+      "low": 227.9,
+      "close": 241.6,
+      "volume": 2760348
+    },
+    {
+      "timestamp": 1770090300000,
+      "date": "03 Feb 2026",
+      "open": 253,
+      "high": 261,
+      "low": 245.7,
+      "close": 254.3,
+      "volume": 737991
+    },
+    {
+      "timestamp": 1770176700000,
+      "date": "04 Feb 2026",
+      "open": 253.8,
+      "high": 256.6,
+      "low": 249.1,
+      "close": 253.85,
+      "volume": 388960
+    },
+    {
+      "timestamp": 1770263100000,
+      "date": "05 Feb 2026",
+      "open": 255,
+      "high": 264.05,
+      "low": 254,
+      "close": 256.55,
+      "volume": 417350
+    },
+    {
+      "timestamp": 1770349500000,
+      "date": "06 Feb 2026",
+      "open": 254.5,
+      "high": 259.4,
+      "low": 252,
+      "close": 255.85,
+      "volume": 267596
+    },
+    {
+      "timestamp": 1770608700000,
+      "date": "09 Feb 2026",
+      "open": 257.15,
+      "high": 263.05,
+      "low": 257.15,
+      "close": 262.3,
+      "volume": 294339
+    },
+    {
+      "timestamp": 1770695100000,
+      "date": "10 Feb 2026",
+      "open": 261.85,
+      "high": 262.65,
+      "low": 256.85,
+      "close": 259.65,
+      "volume": 236073
+    },
+    {
+      "timestamp": 1770781500000,
+      "date": "11 Feb 2026",
+      "open": 259.75,
+      "high": 260.05,
+      "low": 253.2,
+      "close": 254.4,
+      "volume": 182549
+    },
+    {
+      "timestamp": 1770867900000,
+      "date": "12 Feb 2026",
+      "open": 255,
+      "high": 256.25,
+      "low": 249.25,
+      "close": 251.15,
+      "volume": 173133
+    },
+    {
+      "timestamp": 1770954300000,
+      "date": "13 Feb 2026",
+      "open": 251,
+      "high": 255.5,
+      "low": 245.95,
+      "close": 252.05,
+      "volume": 261839
+    },
+    {
+      "timestamp": 1771213500000,
+      "date": "16 Feb 2026",
+      "open": 248.7,
+      "high": 255.45,
+      "low": 247.75,
+      "close": 253.2,
+      "volume": 300103
+    },
+    {
+      "timestamp": 1771299900000,
+      "date": "17 Feb 2026",
+      "open": 254.45,
+      "high": 260.35,
+      "low": 248,
+      "close": 251.5,
+      "volume": 620238
+    },
+    {
+      "timestamp": 1771386300000,
+      "date": "18 Feb 2026",
+      "open": 251,
+      "high": 259.65,
+      "low": 249.45,
+      "close": 257.65,
+      "volume": 396287
+    },
+    {
+      "timestamp": 1771472700000,
+      "date": "19 Feb 2026",
+      "open": 258.9,
+      "high": 259.55,
+      "low": 249.15,
+      "close": 250.55,
+      "volume": 333394
+    },
+    {
+      "timestamp": 1771559100000,
+      "date": "20 Feb 2026",
+      "open": 250.55,
+      "high": 252.1,
+      "low": 246.5,
+      "close": 250.6,
+      "volume": 260491
+    },
+    {
+      "timestamp": 1771818300000,
+      "date": "23 Feb 2026",
+      "open": 255.9,
+      "high": 255.9,
+      "low": 244.25,
+      "close": 246,
+      "volume": 228355
+    },
+    {
+      "timestamp": 1771904700000,
+      "date": "24 Feb 2026",
+      "open": 247.3,
+      "high": 256,
+      "low": 247.3,
+      "close": 253.9,
+      "volume": 932810
+    },
+    {
+      "timestamp": 1771991100000,
+      "date": "25 Feb 2026",
+      "open": 258,
+      "high": 260.7,
+      "low": 254.85,
+      "close": 255.95,
+      "volume": 379029
+    },
+    {
+      "timestamp": 1772077500000,
+      "date": "26 Feb 2026",
+      "open": 258,
+      "high": 259.95,
+      "low": 252,
+      "close": 254,
+      "volume": 333795
+    },
+    {
+      "timestamp": 1772163900000,
+      "date": "27 Feb 2026",
+      "open": 256.55,
+      "high": 256.55,
+      "low": 250.4,
+      "close": 252.05,
+      "volume": 156672
+    },
+    {
+      "timestamp": 1772423100000,
+      "date": "02 Mar 2026",
+      "open": 240,
+      "high": 251,
+      "low": 240,
+      "close": 248.3,
+      "volume": 335180
+    },
+    {
+      "timestamp": 1772595900000,
+      "date": "04 Mar 2026",
+      "open": 245,
+      "high": 245.1,
+      "low": 236.2,
+      "close": 240,
+      "volume": 432413
+    },
+    {
+      "timestamp": 1772682300000,
+      "date": "05 Mar 2026",
+      "open": 241,
+      "high": 249.1,
+      "low": 238.7,
+      "close": 240.65,
+      "volume": 238202
+    },
+    {
+      "timestamp": 1772768700000,
+      "date": "06 Mar 2026",
+      "open": 242.6,
+      "high": 242.6,
+      "low": 236.75,
+      "close": 239.95,
+      "volume": 276140
+    },
+    {
+      "timestamp": 1773027900000,
+      "date": "09 Mar 2026",
+      "open": 236,
+      "high": 236.25,
+      "low": 227,
+      "close": 232.3,
+      "volume": 439855
+    },
+    {
+      "timestamp": 1773114300000,
+      "date": "10 Mar 2026",
+      "open": 236.9,
+      "high": 247.65,
+      "low": 232.4,
+      "close": 244.85,
+      "volume": 191270
+    },
+    {
+      "timestamp": 1773200700000,
+      "date": "11 Mar 2026",
+      "open": 248,
+      "high": 248,
+      "low": 241,
+      "close": 242.4,
+      "volume": 214411
+    },
+    {
+      "timestamp": 1773287100000,
+      "date": "12 Mar 2026",
+      "open": 230,
+      "high": 238.95,
+      "low": 230,
+      "close": 233.25,
+      "volume": 572014
+    },
+    {
+      "timestamp": 1773373500000,
+      "date": "13 Mar 2026",
+      "open": 234.1,
+      "high": 234.1,
+      "low": 220.35,
+      "close": 222.85,
+      "volume": 350776
+    },
+    {
+      "timestamp": 1773632700000,
+      "date": "16 Mar 2026",
+      "open": 222.85,
+      "high": 226.25,
+      "low": 212.15,
+      "close": 214,
+      "volume": 786502
+    },
+    {
+      "timestamp": 1773719100000,
+      "date": "17 Mar 2026",
+      "open": 214.9,
+      "high": 223.5,
+      "low": 211.6,
+      "close": 217.55,
+      "volume": 689631
+    },
+    {
+      "timestamp": 1773805500000,
+      "date": "18 Mar 2026",
+      "open": 219,
+      "high": 230.4,
+      "low": 217.2,
+      "close": 228.8,
+      "volume": 572692
+    },
+    {
+      "timestamp": 1773891900000,
+      "date": "19 Mar 2026",
+      "open": 224,
+      "high": 232.95,
+      "low": 222.5,
+      "close": 226.9,
+      "volume": 550640
+    },
+    {
+      "timestamp": 1773978300000,
+      "date": "20 Mar 2026",
+      "open": 227,
+      "high": 236.5,
+      "low": 225.55,
+      "close": 234.25,
+      "volume": 359188
+    },
+    {
+      "timestamp": 1774237500000,
+      "date": "23 Mar 2026",
+      "open": 231.1,
+      "high": 231.1,
+      "low": 219,
+      "close": 220.9,
+      "volume": 616686
+    },
+    {
+      "timestamp": 1774323900000,
+      "date": "24 Mar 2026",
+      "open": 228.1,
+      "high": 235,
+      "low": 218.45,
+      "close": 219.8,
+      "volume": 548213
+    },
+    {
+      "timestamp": 1774410300000,
+      "date": "25 Mar 2026",
+      "open": 222.4,
+      "high": 228.9,
+      "low": 219.8,
+      "close": 223,
+      "volume": 529852
+    },
+    {
+      "timestamp": 1774583100000,
+      "date": "27 Mar 2026",
+      "open": 219.65,
+      "high": 223.1,
+      "low": 211.2,
+      "close": 212.15,
+      "volume": 553455
+    },
+    {
+      "timestamp": 1774842300000,
+      "date": "30 Mar 2026",
+      "open": 211.6,
+      "high": 219.3,
+      "low": 206,
+      "close": 206.85,
+      "volume": 944851
+    },
+    {
+      "timestamp": 1775015100000,
+      "date": "01 Apr 2026",
+      "open": 213.95,
+      "high": 220.52,
+      "low": 213.05,
+      "close": 216.95,
+      "volume": 631735
+    },
+    {
+      "timestamp": 1775101500000,
+      "date": "02 Apr 2026",
+      "open": 213,
+      "high": 221.15,
+      "low": 208.11,
+      "close": 220.04,
+      "volume": 302903
+    },
+    {
+      "timestamp": 1775447100000,
+      "date": "06 Apr 2026",
+      "open": 220.1,
+      "high": 226.09,
+      "low": 216.91,
+      "close": 225.14,
+      "volume": 358787
+    },
+    {
+      "timestamp": 1775533500000,
+      "date": "07 Apr 2026",
+      "open": 223,
+      "high": 233.2,
+      "low": 221.5,
+      "close": 228.46,
+      "volume": 325418
+    },
+    {
+      "timestamp": 1775619900000,
+      "date": "08 Apr 2026",
+      "open": 239.1,
+      "high": 240,
+      "low": 234.04,
+      "close": 237.28,
+      "volume": 395296
+    },
+    {
+      "timestamp": 1775706300000,
+      "date": "09 Apr 2026",
+      "open": 239,
+      "high": 242.04,
+      "low": 233,
+      "close": 234.6,
+      "volume": 203658
+    },
+    {
+      "timestamp": 1775792700000,
+      "date": "10 Apr 2026",
+      "open": 235.5,
+      "high": 240,
+      "low": 235.5,
+      "close": 238.42,
+      "volume": 192935
+    },
+    {
+      "timestamp": 1776051900000,
+      "date": "13 Apr 2026",
+      "open": 233.2,
+      "high": 237.68,
+      "low": 230,
+      "close": 235.83,
+      "volume": 261721
+    },
+    {
+      "timestamp": 1776224700000,
+      "date": "15 Apr 2026",
+      "open": 238,
+      "high": 242.9,
+      "low": 236.14,
+      "close": 239.44,
+      "volume": 569975
+    },
+    {
+      "timestamp": 1776311100000,
+      "date": "16 Apr 2026",
+      "open": 240.02,
+      "high": 244,
+      "low": 240,
+      "close": 242.02,
+      "volume": 191914
+    },
+    {
+      "timestamp": 1776397500000,
+      "date": "17 Apr 2026",
+      "open": 244.79,
+      "high": 244.79,
+      "low": 238.61,
+      "close": 242.13,
+      "volume": 231424
+    },
+    {
+      "timestamp": 1776656700000,
+      "date": "20 Apr 2026",
+      "open": 243.12,
+      "high": 243.13,
+      "low": 238.61,
+      "close": 240.02,
+      "volume": 158217
+    },
+    {
+      "timestamp": 1776743100000,
+      "date": "21 Apr 2026",
+      "open": 241.21,
+      "high": 244.09,
+      "low": 237,
+      "close": 239.43,
+      "volume": 336022
+    },
+    {
+      "timestamp": 1776829500000,
+      "date": "22 Apr 2026",
+      "open": 239.43,
+      "high": 249.5,
+      "low": 239.43,
+      "close": 248.03,
+      "volume": 612096
+    },
+    {
+      "timestamp": 1776915900000,
+      "date": "23 Apr 2026",
+      "open": 248.02,
+      "high": 259.45,
+      "low": 245,
+      "close": 257.34,
+      "volume": 567071
+    },
+    {
+      "timestamp": 1777002300000,
+      "date": "24 Apr 2026",
+      "open": 257.99,
+      "high": 260,
+      "low": 252.09,
+      "close": 256.89,
+      "volume": 386629
+    },
+    {
+      "timestamp": 1777261500000,
+      "date": "27 Apr 2026",
+      "open": 257,
+      "high": 264.3,
+      "low": 254.11,
+      "close": 263.26,
+      "volume": 484289
+    },
+    {
+      "timestamp": 1777347900000,
+      "date": "28 Apr 2026",
+      "open": 261.46,
+      "high": 263,
+      "low": 258.2,
+      "close": 261.31,
+      "volume": 213764
+    },
+    {
+      "timestamp": 1777434300000,
+      "date": "29 Apr 2026",
+      "open": 261.5,
+      "high": 262.77,
+      "low": 256.5,
+      "close": 257.81,
+      "volume": 305759
+    },
+    {
+      "timestamp": 1777520700000,
+      "date": "30 Apr 2026",
+      "open": 257.81,
+      "high": 263.95,
+      "low": 251,
+      "close": 262.13,
+      "volume": 403756
+    },
+    {
+      "timestamp": 1777607100000,
+      "date": "01 May 2026",
+      "open": 262.13,
+      "high": 262.13,
+      "low": 262.13,
+      "close": 262.13,
+      "volume": 0
+    },
+    {
+      "timestamp": 1777866300000,
+      "date": "04 May 2026",
+      "open": 261.25,
+      "high": 264.2,
+      "low": 258.6,
+      "close": 262.35,
+      "volume": 220115
+    },
+    {
+      "timestamp": 1777952700000,
+      "date": "05 May 2026",
+      "open": 258.3,
+      "high": 278.4,
+      "low": 256.3,
+      "close": 272.9,
+      "volume": 919785
+    },
+    {
+      "timestamp": 1778039100000,
+      "date": "06 May 2026",
+      "open": 277,
+      "high": 288,
+      "low": 274.4,
+      "close": 286.7,
+      "volume": 1000062
+    },
+    {
+      "timestamp": 1778125500000,
+      "date": "07 May 2026",
+      "open": 289.9,
+      "high": 293.25,
+      "low": 281,
+      "close": 284.55,
+      "volume": 851753
+    },
+    {
+      "timestamp": 1778211900000,
+      "date": "08 May 2026",
+      "open": 284.3,
+      "high": 292.8,
+      "low": 284.3,
+      "close": 287.3,
+      "volume": 652053
+    },
+    {
+      "timestamp": 1778471100000,
+      "date": "11 May 2026",
+      "open": 302.6,
+      "high": 321.7,
+      "low": 301.4,
+      "close": 310.75,
+      "volume": 9253727
+    },
+    {
+      "timestamp": 1778557500000,
+      "date": "12 May 2026",
+      "open": 313.3,
+      "high": 318.15,
+      "low": 294.1,
+      "close": 296.15,
+      "volume": 1549921
+    },
+    {
+      "timestamp": 1778643900000,
+      "date": "13 May 2026",
+      "open": 297.05,
+      "high": 302,
+      "low": 284.95,
+      "close": 289.95,
+      "volume": 1290351
+    },
+    {
+      "timestamp": 1778730300000,
+      "date": "14 May 2026",
+      "open": 292.8,
+      "high": 299.2,
+      "low": 282.75,
+      "close": 289.4,
+      "volume": 763842
+    },
+    {
+      "timestamp": 1778816700000,
+      "date": "15 May 2026",
+      "open": 296.3,
+      "high": 296.3,
+      "low": 279,
+      "close": 281.2,
+      "volume": 828868
+    },
+    {
+      "timestamp": 1779075900000,
+      "date": "18 May 2026",
+      "open": 277.1,
+      "high": 278.1,
+      "low": 269.2,
+      "close": 273.65,
+      "volume": 758042
+    },
+    {
+      "timestamp": 1779162300000,
+      "date": "19 May 2026",
+      "open": 273.8,
+      "high": 281.25,
+      "low": 273.4,
+      "close": 275.15,
+      "volume": 551345
+    },
+    {
+      "timestamp": 1779248700000,
+      "date": "20 May 2026",
+      "open": 275.25,
+      "high": 280,
+      "low": 273.85,
+      "close": 275.85,
+      "volume": 905174
+    },
+    {
+      "timestamp": 1779335100000,
+      "date": "21 May 2026",
+      "open": 278.8,
+      "high": 292.9,
+      "low": 276.85,
+      "close": 289.05,
+      "volume": 1489272
+    },
+    {
+      "timestamp": 1779421500000,
+      "date": "22 May 2026",
+      "open": 291.9,
+      "high": 291.9,
+      "low": 279.15,
+      "close": 280.5,
+      "volume": 464078
+    },
+    {
+      "timestamp": 1779680700000,
+      "date": "25 May 2026",
+      "open": 284,
+      "high": 291.85,
+      "low": 281.45,
+      "close": 286.6,
+      "volume": 580323
+    },
+    {
+      "timestamp": 1779767100000,
+      "date": "26 May 2026",
+      "open": 286,
+      "high": 290.5,
+      "low": 279.05,
+      "close": 281.85,
+      "volume": 340456
+    },
+    {
+      "timestamp": 1779853500000,
+      "date": "27 May 2026",
+      "open": 280.2,
+      "high": 283.35,
+      "low": 277.8,
+      "close": 282.1,
+      "volume": 299140
+    },
+    {
+      "timestamp": 1779939900000,
+      "date": "28 May 2026",
+      "open": 282.1,
+      "high": 282.1,
+      "low": 282.1,
+      "close": 282.1,
+      "volume": 0
+    },
+    {
+      "timestamp": 1780026300000,
+      "date": "29 May 2026",
+      "open": 283,
+      "high": 290,
+      "low": 275.1,
+      "close": 281.6,
+      "volume": 547107
+    },
+    {
+      "timestamp": 1780285500000,
+      "date": "01 Jun 2026",
+      "open": 281,
+      "high": 287.05,
+      "low": 273.1,
+      "close": 278.05,
+      "volume": 392856
+    },
+    {
+      "timestamp": 1780371900000,
+      "date": "02 Jun 2026",
+      "open": 278.85,
+      "high": 289.6,
+      "low": 274.1,
+      "close": 287.4,
+      "volume": 505151
+    },
+    {
+      "timestamp": 1780458300000,
+      "date": "03 Jun 2026",
+      "open": 288,
+      "high": 298.95,
+      "low": 280,
+      "close": 293.05,
+      "volume": 1042554
+    },
+    {
+      "timestamp": 1780544700000,
+      "date": "04 Jun 2026",
+      "open": 294,
+      "high": 297.95,
+      "low": 288,
+      "close": 290.3,
+      "volume": 1051408
+    },
+    {
+      "timestamp": 1780631100000,
+      "date": "05 Jun 2026",
+      "open": 292.95,
+      "high": 305,
+      "low": 290.5,
+      "close": 296.85,
+      "volume": 1273858
+    },
+    {
+      "timestamp": 1780890300000,
+      "date": "08 Jun 2026",
+      "open": 292.85,
+      "high": 297.45,
+      "low": 283.1,
+      "close": 285.85,
+      "volume": 516708
+    },
+    {
+      "timestamp": 1780976700000,
+      "date": "09 Jun 2026",
+      "open": 286.5,
+      "high": 304,
+      "low": 285.9,
+      "close": 299.95,
+      "volume": 703621
+    },
+    {
+      "timestamp": 1781063100000,
+      "date": "10 Jun 2026",
+      "open": 299.95,
+      "high": 301.45,
+      "low": 285,
+      "close": 287.4,
+      "volume": 472793
+    },
+    {
+      "timestamp": 1781149500000,
+      "date": "11 Jun 2026",
+      "open": 285.25,
+      "high": 287.4,
+      "low": 275.95,
+      "close": 277.65,
+      "volume": 334302
+    },
+    {
+      "timestamp": 1781235900000,
+      "date": "12 Jun 2026",
+      "open": 281.1,
+      "high": 292.05,
+      "low": 278.3,
+      "close": 289.45,
+      "volume": 571979
+    },
+    {
+      "timestamp": 1781495100000,
+      "date": "15 Jun 2026",
+      "open": 296,
+      "high": 298.85,
+      "low": 291.9,
+      "close": 294.9,
+      "volume": 531708
+    },
+    {
+      "timestamp": 1781581500000,
+      "date": "16 Jun 2026",
+      "open": 298.15,
+      "high": 305,
+      "low": 295,
+      "close": 298.75,
+      "volume": 669390
+    },
+    {
+      "timestamp": 1781667900000,
+      "date": "17 Jun 2026",
+      "open": 300,
+      "high": 302.7,
+      "low": 294.3,
+      "close": 295.7,
+      "volume": 283189
+    },
+    {
+      "timestamp": 1781754300000,
+      "date": "18 Jun 2026",
+      "open": 297.9,
+      "high": 299,
+      "low": 292.75,
+      "close": 295.05,
+      "volume": 491669
+    },
+    {
+      "timestamp": 1781840700000,
+      "date": "19 Jun 2026",
+      "open": 295.05,
+      "high": 298.4,
+      "low": 292.1,
+      "close": 295.05,
+      "volume": 208893
+    },
+    {
+      "timestamp": 1782099900000,
+      "date": "22 Jun 2026",
+      "open": 295,
+      "high": 302,
+      "low": 294.05,
+      "close": 297.7,
+      "volume": 414012
+    },
+    {
+      "timestamp": 1782186300000,
+      "date": "23 Jun 2026",
+      "open": 298.9,
+      "high": 298.9,
+      "low": 287.55,
+      "close": 290.9,
+      "volume": 420898
+    },
+    {
+      "timestamp": 1782272700000,
+      "date": "24 Jun 2026",
+      "open": 288,
+      "high": 298,
+      "low": 288,
+      "close": 294.9,
+      "volume": 395542
+    },
+    {
+      "timestamp": 1782359100000,
+      "date": "25 Jun 2026",
+      "open": 295.9,
+      "high": 308.8,
+      "low": 287.05,
+      "close": 288.1,
+      "volume": 1322921
+    },
+    {
+      "timestamp": 1782445500000,
+      "date": "26 Jun 2026",
+      "open": 288.1,
+      "high": 288.1,
+      "low": 288.1,
+      "close": 288.1,
+      "volume": 0
+    },
+    {
+      "timestamp": 1782704700000,
+      "date": "29 Jun 2026",
+      "open": 289.9,
+      "high": 305.8,
+      "low": 289.9,
+      "close": 292.6,
+      "volume": 1078441
+    },
+    {
+      "timestamp": 1782791100000,
+      "date": "30 Jun 2026",
+      "open": 294.95,
+      "high": 303.9,
+      "low": 292.5,
+      "close": 298.1,
+      "volume": 535961
+    },
+    {
+      "timestamp": 1782877500000,
+      "date": "01 Jul 2026",
+      "open": 298.3,
+      "high": 312,
+      "low": 298.3,
+      "close": 304.15,
+      "volume": 1204086
+    },
+    {
+      "timestamp": 1782963900000,
+      "date": "02 Jul 2026",
+      "open": 306,
+      "high": 316.4,
+      "low": 302.95,
+      "close": 310.2,
+      "volume": 1247668
+    },
+    {
+      "timestamp": 1783050300000,
+      "date": "03 Jul 2026",
+      "open": 314.7,
+      "high": 314.7,
+      "low": 304.05,
+      "close": 307.25,
+      "volume": 456948
+    },
+    {
+      "timestamp": 1783309500000,
+      "date": "06 Jul 2026",
+      "open": 310,
+      "high": 312.4,
+      "low": 306.3,
+      "close": 309.55,
+      "volume": 433255
+    },
+    {
+      "timestamp": 1783395900000,
+      "date": "07 Jul 2026",
+      "open": 308.4,
+      "high": 311.7,
+      "low": 301.4,
+      "close": 304.65,
+      "volume": 304816
+    },
+    {
+      "timestamp": 1783482300000,
+      "date": "08 Jul 2026",
+      "open": 304.75,
+      "high": 309,
+      "low": 292.55,
+      "close": 296.35,
+      "volume": 455459
+    },
+    {
+      "timestamp": 1783568700000,
+      "date": "09 Jul 2026",
+      "open": 300,
+      "high": 311,
+      "low": 297.5,
+      "close": 307.85,
+      "volume": 512492
+    },
+    {
+      "timestamp": 1783655100000,
+      "date": "10 Jul 2026",
+      "open": 309,
+      "high": 328,
+      "low": 309,
+      "close": 325.3,
+      "volume": 2149647
+    },
+    {
+      "timestamp": 1783914300000,
+      "date": "13 Jul 2026",
+      "open": 326.45,
+      "high": 334,
+      "low": 323,
+      "close": 324.95,
+      "volume": 1671776
+    },
+    {
+      "timestamp": 1784000700000,
+      "date": "14 Jul 2026",
+      "open": 325.5,
+      "high": 328.25,
+      "low": 315.15,
+      "close": 318.9,
+      "volume": 628665
+    },
+    {
+      "timestamp": 1784087100000,
+      "date": "15 Jul 2026",
+      "open": 321,
+      "high": 327.3,
+      "low": 312.35,
+      "close": 317.1,
+      "volume": 713950
+    },
+    {
+      "timestamp": 1784173500000,
+      "date": "16 Jul 2026",
+      "open": 317,
+      "high": 319.95,
+      "low": 311.55,
+      "close": 314.3,
+      "volume": 301878
+    },
+    {
+      "timestamp": 1784259900000,
+      "date": "17 Jul 2026",
+      "open": 314.3,
+      "high": 315.7,
+      "low": 297.7,
+      "close": 301.6,
+      "volume": 1255011
+    },
+    {
+      "timestamp": 1784519100000,
+      "date": "20 Jul 2026",
+      "open": 300,
+      "high": 307.95,
+      "low": 298.55,
+      "close": 305.3,
+      "volume": 849784
+    },
+    {
+      "timestamp": 1784605500000,
+      "date": "21 Jul 2026",
+      "open": 304.4,
+      "high": 312,
+      "low": 304.1,
+      "close": 305.75,
+      "volume": 954720
+    },
+    {
+      "timestamp": 1784691900000,
+      "date": "22 Jul 2026",
+      "open": 306.9,
+      "high": 309.5,
+      "low": 297,
+      "close": 299.7,
+      "volume": 1231713
+    },
+    {
+      "timestamp": 1784778300000,
+      "date": "23 Jul 2026",
+      "open": 299,
+      "high": 302,
+      "low": 292.15,
+      "close": 296.95,
+      "volume": 850492
+    },
+    {
+      "timestamp": 1784864700000,
+      "date": "24 Jul 2026",
+      "open": 295.9,
+      "high": 301.1,
+      "low": 291.6,
+      "close": 299.4,
+      "volume": 430335
+    },
+    {
+      "timestamp": 1785123900000,
+      "date": "27 Jul 2026",
+      "open": 304.4,
+      "high": 310,
+      "low": 296,
+      "close": 300.1,
+      "volume": 1178018
+    },
+    {
+      "timestamp": 1785210300000,
+      "date": "28 Jul 2026",
+      "open": 300,
+      "high": 300.1,
+      "low": 278.6,
+      "close": 285.35,
+      "volume": 3058621
+    },
+    {
+      "timestamp": 1785296700000,
+      "date": "29 Jul 2026",
+      "open": 285.35,
+      "high": 290.95,
+      "low": 281.15,
+      "close": 288.8,
+      "volume": 850030
+    },
+    {
+      "timestamp": 1785383100000,
+      "date": "30 Jul 2026",
+      "open": 289.9,
+      "high": 289.9,
+      "low": 283.15,
+      "close": 285.9,
+      "volume": 571626
+    },
+    {
+      "timestamp": 1785469500000,
+      "date": "31 Jul 2026",
+      "open": 286,
+      "high": 292.8,
+      "low": 285,
+      "close": 287,
+      "volume": 578731
+    },
+    {
+      "timestamp": 1785728700000,
+      "date": "03 Aug 2026",
+      "open": 290,
+      "high": 295.6,
+      "low": 282,
+      "close": 284.65,
+      "volume": 597266
+    },
+    {
+      "timestamp": 1785815100000,
+      "date": "04 Aug 2026",
+      "open": 284.15,
+      "high": 289.2,
+      "low": 281.85,
+      "close": 285.05,
+      "volume": 523851
+    },
+    {
+      "timestamp": 1785901500000,
+      "date": "05 Aug 2026",
+      "open": 285.05,
+      "high": 287.9,
+      "low": 282,
+      "close": 285.15,
+      "volume": 461473
+    },
+    {
+      "timestamp": 1785987900000,
+      "date": "06 Aug 2026",
+      "open": 285.25,
+      "high": 287.9,
+      "low": 278.8,
+      "close": 280.4,
+      "volume": 373329
+    },
+    {
+      "timestamp": 1786074300000,
+      "date": "07 Aug 2026",
+      "open": 280.4,
+      "high": 282.1,
+      "low": 273.15,
+      "close": 276.25,
+      "volume": 473790
+    },
+    {
+      "timestamp": 1786333500000,
+      "date": "10 Aug 2026",
+      "open": 279.8,
+      "high": 289.35,
+      "low": 277.45,
+      "close": 285.35,
+      "volume": 632030
+    },
+    {
+      "timestamp": 1786419900000,
+      "date": "11 Aug 2026",
+      "open": 285.95,
+      "high": 287.7,
+      "low": 281,
+      "close": 282.3,
+      "volume": 562573
+    },
+    {
+      "timestamp": 1786506300000,
+      "date": "12 Aug 2026",
+      "open": 283.2,
+      "high": 287.45,
+      "low": 280.8,
+      "close": 284.2,
+      "volume": 405745
+    },
+    {
+      "timestamp": 1786592700000,
+      "date": "13 Aug 2026",
+      "open": 284,
+      "high": 288.8,
+      "low": 283,
+      "close": 286.5,
+      "volume": 641539
+    },
+    {
+      "timestamp": 1786679100000,
+      "date": "14 Aug 2026",
+      "open": 285,
+      "high": 288.4,
+      "low": 280.05,
+      "close": 281.35,
+      "volume": 403196
+    },
+    {
+      "timestamp": 1786938300000,
+      "date": "17 Aug 2026",
+      "open": 280,
+      "high": 280.95,
+      "low": 275.85,
+      "close": 278.7,
+      "volume": 400473
+    },
+    {
+      "timestamp": 1787024700000,
+      "date": "18 Aug 2026",
+      "open": 278.4,
+      "high": 295,
+      "low": 276.5,
+      "close": 289.2,
+      "volume": 974974
+    },
+    {
+      "timestamp": 1787111100000,
+      "date": "19 Aug 2026",
+      "open": 289.2,
+      "high": 289.95,
+      "low": 282.3,
+      "close": 284.35,
+      "volume": 313788
+    },
+    {
+      "timestamp": 1787197500000,
+      "date": "20 Aug 2026",
+      "open": 286,
+      "high": 293.8,
+      "low": 282,
+      "close": 292.6,
+      "volume": 651296
+    },
+    {
+      "timestamp": 1787283900000,
+      "date": "21 Aug 2026",
+      "open": 292.6,
+      "high": 297.9,
+      "low": 286.5,
+      "close": 288.35,
+      "volume": 760552
+    },
+    {
+      "timestamp": 1787543100000,
+      "date": "24 Aug 2026",
+      "open": 289.05,
+      "high": 290.7,
+      "low": 282.95,
+      "close": 284.35,
+      "volume": 281710
+    },
+    {
+      "timestamp": 1787629500000,
+      "date": "25 Aug 2026",
+      "open": 282.55,
+      "high": 294.4,
+      "low": 282.55,
+      "close": 291.65,
+      "volume": 909363
+    },
+    {
+      "timestamp": 1787715900000,
+      "date": "26 Aug 2026",
+      "open": 293.75,
+      "high": 298.15,
+      "low": 284,
+      "close": 293.5,
+      "volume": 1536585
+    },
+    {
+      "timestamp": 1787802300000,
+      "date": "27 Aug 2026",
+      "open": 290.05,
+      "high": 292.9,
+      "low": 280.45,
+      "close": 286.3,
+      "volume": 4612806
+    },
+    {
+      "timestamp": 1787888700000,
+      "date": "28 Aug 2026",
+      "open": 287.95,
+      "high": 292,
+      "low": 283.5,
+      "close": 285.75,
+      "volume": 4983190
+    },
+    {
+      "timestamp": 1788147900000,
+      "date": "31 Aug 2026",
+      "open": 301.3,
+      "high": 319.6,
+      "low": 298.6,
+      "close": 311.65,
+      "volume": 25296223
+    },
+    {
+      "timestamp": 1788234300000,
+      "date": "01 Sept 2026",
+      "open": 310.25,
+      "high": 310.25,
+      "low": 296,
+      "close": 299.5,
+      "volume": 3752002
+    },
+    {
+      "timestamp": 1788320700000,
+      "date": "02 Sept 2026",
+      "open": 298.15,
+      "high": 303.15,
+      "low": 292.1,
+      "close": 299.7,
+      "volume": 1420849
+    },
+    {
+      "timestamp": 1788407100000,
+      "date": "03 Sept 2026",
+      "open": 302.7,
+      "high": 308.5,
+      "low": 299.8,
+      "close": 304.6,
+      "volume": 1694057
+    },
+    {
+      "timestamp": 1788493500000,
+      "date": "04 Sept 2026",
+      "open": 306.7,
+      "high": 307.1,
+      "low": 299.15,
+      "close": 302.15,
+      "volume": 1089238
+    },
+    {
+      "timestamp": 1788752700000,
+      "date": "07 Sept 2026",
+      "open": 303.75,
+      "high": 311,
+      "low": 299.05,
+      "close": 306,
+      "volume": 1691631
+    },
+    {
+      "timestamp": 1788839100000,
+      "date": "08 Sept 2026",
+      "open": 307.9,
+      "high": 313.9,
+      "low": 302.85,
+      "close": 310.85,
+      "volume": 1487186
+    },
+    {
+      "timestamp": 1788925500000,
+      "date": "09 Sept 2026",
+      "open": 312,
+      "high": 312,
+      "low": 303.55,
+      "close": 308.35,
+      "volume": 1054140
+    },
+    {
+      "timestamp": 1789011900000,
+      "date": "10 Sept 2026",
+      "open": 308,
+      "high": 315.25,
+      "low": 307.05,
+      "close": 309.15,
+      "volume": 1349056
+    },
+    {
+      "timestamp": 1789098300000,
+      "date": "11 Sept 2026",
+      "open": 306.15,
+      "high": 307.65,
+      "low": 302.4,
+      "close": 305.1,
+      "volume": 699849
+    },
+    {
+      "timestamp": 1789357500000,
+      "date": "14 Sept 2026",
+      "open": 305.1,
+      "high": 305.1,
+      "low": 305.1,
+      "close": 305.1,
+      "volume": 0
+    },
+    {
+      "timestamp": 1789443900000,
+      "date": "15 Sept 2026",
+      "open": 305.9,
+      "high": 308.2,
+      "low": 292,
+      "close": 294.2,
+      "volume": 1045895
+    },
+    {
+      "timestamp": 1789530300000,
+      "date": "16 Sept 2026",
+      "open": 294.15,
+      "high": 298.5,
+      "low": 285.45,
+      "close": 295.9,
+      "volume": 749709
+    },
+    {
+      "timestamp": 1789616700000,
+      "date": "17 Sept 2026",
+      "open": 293.05,
+      "high": 317.35,
+      "low": 293.05,
+      "close": 310.55,
+      "volume": 2358970
+    },
+    {
+      "timestamp": 1789703100000,
+      "date": "18 Sept 2026",
+      "open": 311.9,
+      "high": 315.5,
+      "low": 308.55,
+      "close": 313.6,
+      "volume": 1062365
+    },
+    {
+      "timestamp": 1789962300000,
+      "date": "21 Sept 2026",
+      "open": 313.6,
+      "high": 324.55,
+      "low": 310.5,
+      "close": 319.15,
+      "volume": 1666629
+    },
+    {
+      "timestamp": 1790048700000,
+      "date": "22 Sept 2026",
+      "open": 319,
+      "high": 320.9,
+      "low": 314.1,
+      "close": 315.9,
+      "volume": 649137
+    },
+    {
+      "timestamp": 1790135100000,
+      "date": "23 Sept 2026",
+      "open": 317.7,
+      "high": 317.75,
+      "low": 311.4,
+      "close": 313.8,
+      "volume": 587471
+    },
+    {
+      "timestamp": 1790221500000,
+      "date": "24 Sept 2026",
+      "open": 307,
+      "high": 309.95,
+      "low": 301.5,
+      "close": 303,
+      "volume": 825722
+    },
+    {
+      "timestamp": 1790307900000,
+      "date": "25 Sept 2026",
+      "open": 303,
+      "high": 304.4,
+      "low": 299.05,
+      "close": 302.45,
+      "volume": 291079
+    }
+  ]
+}
